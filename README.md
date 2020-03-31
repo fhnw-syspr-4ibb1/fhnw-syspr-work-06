@@ -19,4 +19,3 @@ Für Slides und Code Beispiele, siehe [Lektion 6](../../../fhnw-syspr/blob/maste
 * Das Producer/Consumer Problem ist ein Klassiker.
 * Studieren Sie diese Version mit zirkulärem Buffer:<pre>
 http://www.cs.fsu.edu/~baker/realtime/restricted/notes/prodcons.html</pre>
-
